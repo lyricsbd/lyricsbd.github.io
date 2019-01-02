@@ -3,7 +3,7 @@ date: 2019-01-2
 title: Beiman (বেঈমান) Lyrics 
 categories:  [Arman Alif] 
 layout: lrc
-description: "Beiman (বেঈমান) Lyrics - Arman Alif "
+description: "Beiman (বেঈমান) Lyrics by Arman Alif "
 type: Music
 ---
 
