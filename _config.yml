@@ -1,9 +1,8 @@
 # ----
 # Site
-
 title: LyricsBD
 url: "https://lyricsbd.github.io/"
-baseurl:
+baseurl:https://lyricsbd.github.io
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
