@@ -1,6 +1,6 @@
 ---
 date: 2017-01-16
-title: Change password
+title: my cv
 categories:
   - account-settings
 layout: cv
